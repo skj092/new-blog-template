@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "title": "I used o3 to profile myself from my saved Pocket links",
+    "excerpt": "Welp, Pocket shuts down tomorrow despite our pleas for it to stay. While migrating all of my saved articles, I noticed that I've got almost 900 saved articles spanning nearly 7 years.",
+    "date": "2025-07-07",
+    "readTime": "5 min read",
+    "slug": "pocket-links-analysis",
+    "tags": ["AI", "Analysis", "Personal"],
+    "published": true
+  },
+  {
+    "id": 2,
+    "title": "Using LLMs to solve security problems",
+    "excerpt": "TL;DR: Raink—a novel, general-purpose listwise document ranking algorithm using an LLM as the ranking model—can be used to solve non-trivial security problems.",
+    "date": "2025-02-28",
+    "readTime": "8 min read",
+    "slug": "llms-security-problems",
+    "tags": ["Security", "AI", "LLM"],
+    "published": true
+  }
+]
